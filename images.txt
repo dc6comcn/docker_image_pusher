@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/alm/v7 1panel/openresty:1.21.4.3-3-3-focal
+host:alpine
